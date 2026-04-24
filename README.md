@@ -2,7 +2,7 @@
 
 ### Softwareentwickler – KI & Automatisierung | Web-Enthusiast | Prozess-Optimierer
 
-[^1]:Ich bin ein **KI-Engineer** mit einem starken Fundament in der Webentwicklung und im E-Commerce[cite: 41, 44]. [cite_start]Mein Fokus liegt darauf, die Brücke zwischen komplexen KI-Technologien und pragmatischen Geschäftslösungen zu schlagen[cite: 47]. [cite_start]Ich liebe es, manuelle Prozesse durch intelligente Workflows und API-Integrationen in effiziente, skalierbare Systeme zu transformieren[cite: 44, 46].
+Ich bin ein **KI-Engineer** mit einem starken Fundament in der Webentwicklung und im E-Commerce[cite: 41, 44]. [cite_start]Mein Fokus liegt darauf, die Brücke zwischen komplexen KI-Technologien und pragmatischen Geschäftslösungen zu schlagen[cite: 47]. [cite_start]Ich liebe es, manuelle Prozesse durch intelligente Workflows und API-Integrationen in effiziente, skalierbare Systeme zu transformieren[cite: 44, 46].
 
 ---
 
