@@ -8,7 +8,7 @@ Ich bin ein **KI-Engineer** mit einem starken Fundament in der Webentwicklung un
 
 ### 🚀 Woran ich arbeite
 - 🤖 **KI-Workflows:** Entwicklung smarter Automatisierungen und Agent-Systeme mit Tools wie n8n, Zapier, Cursor AI, Claude Code und Antigravity.
-- 🛠️ **Full-Stack Development:** Erstellung robuster Anwendungen mit Python, Flask und modernen JavaScript-Frameworks.
+- 🛠️ **Full-Stack Development:** Erstellung robuster Anwendungen mit Python, Django, Flask und modernen JavaScript-Frameworks.
 - 🔗 **API-Orchestrierung:** Vernetzung verschiedener Systeme zur Optimierung der digitalen Transformation.
 
 ---
@@ -17,24 +17,25 @@ Ich bin ein **KI-Engineer** mit einem starken Fundament in der Webentwicklung un
 
 | Bereich | Skills |
 | :--- | :--- |
-| **KI & Automatisierung** | Python, RESTful APIs, Zapier, n8n, Cursor AI, Claude Code, Antigravity |
-| **Backend & Datenbanken** | Flask, SQLAlchemy, SQL, SQLite |
-| **Frontend & Design** | HTML5, CSS3, JavaScript, WordPress |
-| **Tools & DevOps** | Git, GitHub, Unit Testing (TDD), Trello |
+| **KI & Automatisierung** | Python, RESTful APIs, Zapier, n8n, Cursor AI, Claude Code, Antigravity, JavaScript (ES6+) |
+| **Backend & Datenbanken** | Django, Flask, SQLAlchemy, SQL, SQLite, PostgreSQL |
+| **Frontend & Design** | React, HTML5, CSS3, WordPress |
+| **Tools & DevOps** | CI/CD-Pipelines (GitHub Actions), Docker, Deployment (Render), Git, GitHub, Unit Testing (TDD), Trello |
 
 ---
 
 ### 📈 Meine Reise
-Vom strategischen Unternehmensberater über den kreativen Webdesigner hin zum passionierten KI-Entwickler. Diese vielseitige Erfahrung ermöglicht es mir, technische Herausforderungen immer auch aus der Business- und Anwenderperspektive zu betrachten.
+Vom strategischen Unternehmensberater über den kreativen Webdesigner hin zum passionierten Software-Entwickler. Diese vielseitige Erfahrung ermöglicht es mir, technische Herausforderungen immer auch aus der Business- und Anwenderperspektive zu betrachten.
 
-- 🎓 Aktuell vertiefe ich mein Wissen im **Software Engineering mit Fokus auf KI** an der Masterschool.
+- 💻 Aktuell suche ich eine Tätigkeit als **Webentwickler, Softwareentwickler, Backend- bzw. Frontend-Entwickler**
+- 🎓 Zuletzt vertiefte ich mein Wissen im **Software Engineering & Webentwicklung mit Fokus auf KI** an der Masterschool.
 - 🌍 Ich kommuniziere fließend auf **Deutsch (C1)** und **Persisch (Muttersprache)**.
 
 ---
 
 ### ✨ Ein paar Fun Facts
-- 💡 Ich glaube fest daran, dass "Verschwendung von Zeit durch manuelle Aufgaben" ein lösbares Problem ist.
-- ✍️ In meiner Laufbahn war ich bereits als Autor und Unternehmensberater tätig.
+- 💡 Ich glaube fest daran, dass **"Verschwendung von Zeit durch manuelle Aufgaben"** ein lösbares Problem ist.
+- ✍️ Im Laufe meiner beruflichen Laufbahn habe ich vielfältige Erfahrungen in der Webentwicklung gesammelt..
 - 🏠 Ich lebe im schönen Uelzen und arbeite gerne an der Schnittstelle von Kreativität und Logik.
 
 ---
